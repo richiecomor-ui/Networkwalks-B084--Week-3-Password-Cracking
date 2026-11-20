@@ -85,8 +85,62 @@ The objective of this stage was to use the extracted PDF hash in an authorized p
 
 **Note:** Successful password recovery has not yet been verified in the available practical evidence.
 
-## Evidence Collected
+Evidence Collected
 
 Screenshots documenting the practical exercise include:
 
-- John the
+John the Ripper 1.9.0 Jumbo extracted folder.
+
+Successful execution of john.exe --help.
+
+Johnny installation and configuration.
+
+Johnny Settings showing the John the Ripper executable path.
+
+NetworkWalks PDF hash extraction page.
+
+Generated PDF password hash.
+
+Password recovery interface and results, when available.
+
+Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+Understanding password auditing and recovery concepts.
+
+Extracting password hashes from encrypted PDF documents.
+
+Using NetworkWalks Hash Calculator.
+
+Installing and configuring Johnny.
+
+Connecting Johnny to the John the Ripper executable.
+
+Understanding the relationship between a graphical interface and its underlying password auditing engine.
+
+Documenting cybersecurity practical exercises using GitHub.
+
+Ethical Considerations
+
+Password auditing and recovery techniques must be used responsibly and only on documents or systems that I own or have explicit permission to test.
+
+This exercise was conducted for educational purposes using instructor-provided practical materials.
+
+Acknowledgement
+
+Special thanks to Sir Waqas Karim (CCIE) and the NetworkWalks team for their guidance, practical learning resources, and continued contribution to cybersecurity education.
+
+Their support and training resources have provided valuable opportunities to develop hands-on cybersecurity skills.
+
+Author and Training Details
+
+Author: Richard Comor
+
+Program: Networkwalks Cybersecurity Training
+
+Batch: B084
+
+Project: Week 3 -- Password Cracking with Johnny and Netwalkworks Tools
+
+Project Status: Ongoing / Password recovery result Verified
